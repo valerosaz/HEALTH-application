@@ -1,0 +1,8 @@
+Functional design remarks
+- Mechanial concept
+- Electrical concept
+- Electronic concept
+- Software concept
+
+Put brainstorming in report
+selecting concept -> weighed concept -> make block diagram
